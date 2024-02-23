@@ -1,1 +1,1 @@
-asfds
+console.log("Hello world!");
